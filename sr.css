@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="container">
+    
+    <h4>Our Resorts</h4>
+
+    <div class="resorts">
+        <div class="items">
+            
+        
+            <img src="images/resort.jpg">
+            
+            <h3><b>Ant's Nest</b></h3>
+            <p class="paragraph1">$100<br><i class="fa fa-map-marker"></i> Ant river<br></p>
+            <button class="addcart"><b>Book now</b></button>
+            
+
+        </div>
+    </div>
+   
+        <div class="items1">
+            <img src="images/res.jpg">
+            <h3 class="heading2">Ant's colony</b></h3>
+            <p class="paragraph1">$100<br><i class="fa fa-map-marker"></i> Antiville</p>
+            <button class="addcart1"><b>Book now</b></button>
+            
+
+        </div>
+    </div>
+    <div class="items2">
+        <img src="images/bg1.jpg">
+        <h3 class="heading3">Ant's hideaway</b></h3>
+        <p class="paragraph2">$100<br><i class="fa fa-map-marker"></i> Anthil mountain</p>
+        <button class="addcart2"><b>Book now</b></button>
+        
+
+    </div>
+</div>
+<div class="items3">
+    <img src="images/bg2.jpg">
+    <h3 class="heading4">Ant's colony</b></h3>
+    <p class="paragraph3">$100<br><i class="fa fa-map-marker"></i> Antiville</p>
+    <button class="addcart3"><b>Book now</b></button>
+    
+
+</div>
+</div>
+<div class="items4">
+    <img src="images/bgres.jpg">
+    
+    <h3 class="heading5">Ant's colony</b></h3>
+    <p class="paragraph4">$100<br><i class="fa fa-map-marker"></i> Antwynn</p>
+    <button class="addcart4"><b>Book now</b></button>
+    
+
+</div>
+</div>
+<div class="items5">
+    <img src="images/antresort.jpg">
+    <h3 class="heading6">Ant's colony</b></h3>
+    <p class="paragraph5">$100<br>Antiville</p>
+    <button class="addcart5"><b>Book Now</button>
+    
+
+</div>
+</div>
+<div class="items6">
+    <img src="images/mainbg.jpg">
+    <h3 class="heading7">Ant's colony</b></h3>
+    <p class="paragraph6">$100<br>Antiville</p>
+    <button class="addcart6"><b>Book now</b></button>
+    
+
+</div>
+</div>
+<div class="items7">
+    <img src="images/mudbg.jpg">
+    <h3 class="heading8">Ant's colony</b></h3>
+    <p class="paragraph7">$100<br>Antiville</p>
+    <button class="addcart8"><b>Book now </b></button>
+    
+
+</div>
+</div>
+
+
+
+</body>
+
+
+
